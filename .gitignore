@@ -1,2 +1,8 @@
 
 MinhaAPICore/.vs/MinhaAPICore/v16/Server/sqlite3/db.lock
+MinhaAPICore/.vs/MinhaAPICore/v16/.suo
+*.ide
+MinhaAPICore/.vs/MinhaAPICore/v16/Server/sqlite3/storage.ide-wal
+MinhaAPICore/MinhaAPICore/bin/Debug/netcoreapp3.1/MinhaAPICore.dll
+MinhaAPICore/.vs/MinhaAPICore/v16/Server/sqlite3/storage.ide-wal
+MinhaAPICore/.vs/MinhaAPICore/v16/Server/sqlite3/storage.ide-shm
